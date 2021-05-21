@@ -1,4 +1,4 @@
 # TP-BD1
-Trabajo practico para base de datos 1
+Practical work for database 1
 
-Colaboradores: Tomas Rivera, Martin Alexis Torrents y Facundo Torrez
+Collaborators: Tomas Rivera, Martin Alexis Torrents and Facundo Torrez
